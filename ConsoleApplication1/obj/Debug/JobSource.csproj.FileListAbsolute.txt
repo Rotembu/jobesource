@@ -1,0 +1,9 @@
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\bin\Debug\JobSource.exe.config
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\bin\Debug\JobSource.exe
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\bin\Debug\JobSource.pdb
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\obj\Debug\JobSource.csprojResolveAssemblyReference.cache
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\obj\Debug\JobSource.exe
+c:\users\otom\documents\visual studio 2015\Projects\jobsource\ConsoleApplication1\obj\Debug\JobSource.pdb
+C:\github\jobesource\ConsoleApplication1\bin\Debug\JobSource.exe.config
+C:\github\jobesource\ConsoleApplication1\obj\Debug\JobSource.exe
+C:\github\jobesource\ConsoleApplication1\obj\Debug\JobSource.pdb
