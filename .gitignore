@@ -1,0 +1,5 @@
+JobSource\bin\*
+JobSource\obj\* 
+/JobSource/obj/Debug
+/JobSource/bin/Debug
+/.vs/jobsource/v14/.suo
